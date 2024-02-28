@@ -6,7 +6,7 @@ public class Main {
         double memory = 0.0;
 
         while (true) {
-            System.out.println("Current memory value: " + memory);
+            System.out.println("Curr: " + memory);
             System.out.println("Enter the first number (or 'M' to use memory):");
             String input1 = scanner.next();
 
@@ -54,7 +54,6 @@ public class Main {
             if (quit.equalsIgnoreCase("Q")) {
                 break;
             }
-          aad
         }
     }
 }
