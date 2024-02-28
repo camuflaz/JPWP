@@ -54,6 +54,7 @@ public class Main {
             if (quit.equalsIgnoreCase("Q")) {
                 break;
             }
+          aad
         }
     }
 }
